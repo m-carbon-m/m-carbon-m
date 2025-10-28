@@ -8,7 +8,7 @@ on a journey to explore data, visualize insights, and combine life sciences with
 
 #### 🌸  Projects
 
-Take a look at my [portfolio]
+Take a look at my [portfolio](https://github.com/m-carbon-m/my_portfolio/main/README.md).
 
 #### 🌷 Toolkit
 
