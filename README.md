@@ -1,7 +1,5 @@
 ### Hi, I'm Margherita! 🙆🏻‍♀️✨
 
----
-
 Biologist turned Data Analyst \
 on a journey to explore data, visualize insights, and combine life sciences with analytics.
 
