@@ -14,4 +14,4 @@ Take a look at my [portfolio](https://github.com/m-carbon-m/my_portfolio).
 
 - Languages: Python, SQL
 - Databases: PostgreSQL, MySQL
-- Visualization: Tableau, PowerBI
+- Visualizations: Tableau, PowerBI
