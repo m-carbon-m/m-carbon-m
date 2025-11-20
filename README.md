@@ -1,6 +1,6 @@
 ### Hi, I'm Margherita! 🙆🏻‍♀️✨
 
-Biologist turned Biologist turned Data & Business Analyst \
+Biologist turned Data & Business Analyst \
 on a journey to explore data, visualize insights, and combine life sciences with analytics.
 
 - Currently deepening my skills in Python, SQL, Tableau and Power BI
